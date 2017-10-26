@@ -1,0 +1,11 @@
+c:\users\v-liiluo\documents\visual studio 2017\Projects\SampleApp2\SampleApp2\bin\Debug\netcoreapp2.0\SampleApp2.deps.json
+c:\users\v-liiluo\documents\visual studio 2017\Projects\SampleApp2\SampleApp2\bin\Debug\netcoreapp2.0\SampleApp2.runtimeconfig.json
+c:\users\v-liiluo\documents\visual studio 2017\Projects\SampleApp2\SampleApp2\bin\Debug\netcoreapp2.0\SampleApp2.runtimeconfig.dev.json
+c:\users\v-liiluo\documents\visual studio 2017\Projects\SampleApp2\SampleApp2\bin\Debug\netcoreapp2.0\SampleApp2.dll
+c:\users\v-liiluo\documents\visual studio 2017\Projects\SampleApp2\SampleApp2\bin\Debug\netcoreapp2.0\SampleApp2.pdb
+c:\users\v-liiluo\documents\visual studio 2017\Projects\SampleApp2\SampleApp2\obj\Debug\netcoreapp2.0\SampleApp2.csprojResolveAssemblyReference.cache
+c:\users\v-liiluo\documents\visual studio 2017\Projects\SampleApp2\SampleApp2\obj\Debug\netcoreapp2.0\SampleApp2.csproj.CoreCompileInputs.cache
+c:\users\v-liiluo\documents\visual studio 2017\Projects\SampleApp2\SampleApp2\obj\Debug\netcoreapp2.0\SampleApp2.AssemblyInfoInputs.cache
+c:\users\v-liiluo\documents\visual studio 2017\Projects\SampleApp2\SampleApp2\obj\Debug\netcoreapp2.0\SampleApp2.AssemblyInfo.cs
+c:\users\v-liiluo\documents\visual studio 2017\Projects\SampleApp2\SampleApp2\obj\Debug\netcoreapp2.0\SampleApp2.dll
+c:\users\v-liiluo\documents\visual studio 2017\Projects\SampleApp2\SampleApp2\obj\Debug\netcoreapp2.0\SampleApp2.pdb
